@@ -67,10 +67,6 @@ Follow the on-screen menu to add, view, edit, or filter your financial transacti
 
 Feel free to submit issues or pull requests for new features and bug fixes.
 
-## License
-
-This project is open-source. Add your license information here.
-
 ---
 
 *Made with 💪 by Abhi0049k*
